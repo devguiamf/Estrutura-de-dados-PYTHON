@@ -5,7 +5,7 @@
           
 
 <ol>
-    <li>Algoritimos de ordenação <img width="20px" src="https://cdn-icons.flaticon.com/png/512/5290/premium/5290075.png?token=exp=1651806294~hmac=1605ea122f4af68ccb4b3ea94f76d470"> 
+    <li>Algoritimos de ordenação <img width="20px" src="https://cdn-icons.flaticon.com/png/512/1634/premium/1634264.png?token=exp=1651807564~hmac=ffafbb619ee1237a2ffd6d460d1aeaa2"> 
         <ul>
         <li>Bubble Sort </li>  
         <li>Selection Sort </li>  
